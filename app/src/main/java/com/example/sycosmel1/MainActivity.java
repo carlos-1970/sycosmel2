@@ -1,3 +1,4 @@
+//SYSCOMEL APP
 package com.example.sycosmel1;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -23,3 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 }
+
+//VISTA MAIN VLADIMIR INCLUYE BOTON OLVIDASTE TU CONTRASEÑA (SELECT) CON MENSAJE
+// DE ENVIADO A CORREO INDICADO

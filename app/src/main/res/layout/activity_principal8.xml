@@ -103,3 +103,5 @@
         app:srcCompat="@drawable/pagos" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!---Agregar boton de llamar con mensaje: EN CASO NO VALIDE SU CODIGO LLAMAR A NUESTRA AREA DE TESORERÍA PARA VALIDAR SU PAGO -->

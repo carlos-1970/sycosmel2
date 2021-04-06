@@ -110,3 +110,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView15" />
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- IMAGEN DE REPORTE DE CALIBRACION DE IMPRESORA: Utilización de cámara: envío de fotografía al Servicio Web e inserción a la base de datos.-->
