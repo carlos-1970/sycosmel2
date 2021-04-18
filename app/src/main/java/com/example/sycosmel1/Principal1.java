@@ -24,11 +24,6 @@ public class Principal1 extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void Siguiente4(View v){
-        Intent i = new Intent (this,Principal4.class);
-        startActivity(i);
-    }
-
     public void Siguiente5(View v){
         Intent i = new Intent (this,Principal5.class);
         startActivity(i);

@@ -11,7 +11,7 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Bienvenidos a Sycosmel"
+        android:text="Registrar su usuario"
         android:textAlignment="center"
         android:textColor="#2196F3"
         android:textSize="30sp" /><![CDATA[
@@ -38,23 +38,23 @@
         android:textSize="18sp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/nombre"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Nombres" />
+        android:text="Nombre" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/apellido"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Apellidos" />
+        android:text="Apellido" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName5"
+        android:id="@+id/correoelectronico"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -62,7 +62,7 @@
         android:text="Correo electronico" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName6"
+        android:id="@+id/empresa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -70,7 +70,7 @@
         android:text="Empresa" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName7"
+        android:id="@+id/direccion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -78,12 +78,20 @@
         android:text="Direccion" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName8"
+        android:id="@+id/telefono"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Telefono" />
+
+    <EditText
+        android:id="@+id/contrasena"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Contraseña" />
 
     <CheckBox
         android:id="@+id/checkBox"
@@ -95,7 +103,7 @@
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="Siguiente5"
+        android:onClick="Siguiente1"
         android:text="Registrarse" />
 
 </LinearLayout>
